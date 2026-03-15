@@ -1,0 +1,74 @@
+{
+  "took": 200,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 5,
+      "relation": "eq"
+    },
+    "max_score": 0.6271038,
+    "hits": [
+      {
+        "_index": "documents",
+        "_id": "0Fss7pwBAclMba5uKKaZ",
+        "_score": 0.6271038,
+        "_source": {
+          "doc_id": "OL73384W",
+          "chunk_id": "OL73384W-0",
+          "title": "The White Dragon",
+          "description": """On the planet Pern, which was colonised hundreds of years ago by Earth folk looking for a more agrarian lifestyle, "dragons" help humans to fight a deadly Thread that falls from a neighbouring planet as it cycles past once every couple of hundred years. When dragons hatch, each gold (the Queen), bronze, blue or green dragon makes a telepathic connection with a child, and they beome inseparable. Naturally, lads destined to inherit and rule the semi-autonomous Holds cannot be part of this Thread-fighting life, but when young Lord Jaxom sees the struggle the last small egg is having, he can't help himself and runs to its assistance. The poor little runt is white and nobody expects it to live long, so Jaxom is allowed to keep Ruth."""
+        }
+      },
+      {
+        "_index": "documents",
+        "_id": "TYIO85wBuAgl2xir1Vks",
+        "_score": 0.62671185,
+        "_source": {
+          "doc_id": "OL73384W",
+          "chunk_id": "OL73384W-0",
+          "title": "The White Dragon",
+          "description": """On the planet Pern, which was colonised hundreds of years ago by Earth folk looking for a more agrarian lifestyle, "dragons" help humans to fight a deadly Thread that falls from a neighbouring planet as it cycles past once every couple of hundred years. When dragons hatch, each gold (the Queen), bronze, blue or green dragon makes a telepathic connection with a child, and they beome inseparable. Naturally, lads destined to inherit and rule the semi-autonomous Holds cannot be part of this Thread-fighting life, but when young Lord Jaxom sees the struggle the last small egg is having, he can't help himself and runs to its assistance. The poor little runt is white and nobody expects it to live long, so Jaxom is allowed to keep Ruth."""
+        }
+      },
+      {
+        "_index": "documents",
+        "_id": "yJEm6ZwBAX6w1uwOYTCD",
+        "_score": 0.6257744,
+        "_source": {
+          "doc_id": "OL52982W",
+          "chunk_id": "OL52982W-0",
+          "title": "The Tiny Seed",
+          "description": "A simple description of a flowering plant's life cycle through the seasons."
+        }
+      },
+      {
+        "_index": "documents",
+        "_id": "GYIM85wBuAgl2xirgFX2",
+        "_score": 0.6216867,
+        "_source": {
+          "doc_id": "OL28429W",
+          "chunk_id": "OL28429W-1",
+          "title": "Schachnovelle",
+          "description": "Es geht ihm bei dieser Partie lediglich darum, festzustellen, ob sein Tun damals wahrend seiner Haft noch Spiel oder bereits Wahnsinn gewesen ist. Er schlagt den Weltmeister in der ersten Partie souveran, lat sich aber, eigentlich gegen seinen Willen, auf eine Revanche ein. Wahrend dieser zweiten Partie ergreift ihn wieder das Nervenfieber: er bricht die Partie ab und wird nie wieder ein Schachbrett beruhren."
+        }
+      },
+      {
+        "_index": "documents",
+        "_id": "nFsp7pwBAclMba5ueqKz",
+        "_score": 0.62103844,
+        "_source": {
+          "doc_id": "OL28429W",
+          "chunk_id": "OL28429W-1",
+          "title": "Schachnovelle",
+          "description": "Es geht ihm bei dieser Partie lediglich darum, festzustellen, ob sein Tun damals wahrend seiner Haft noch Spiel oder bereits Wahnsinn gewesen ist. Er schlagt den Weltmeister in der ersten Partie souveran, lat sich aber, eigentlich gegen seinen Willen, auf eine Revanche ein. Wahrend dieser zweiten Partie ergreift ihn wieder das Nervenfieber: er bricht die Partie ab und wird nie wieder ein Schachbrett beruhren."
+        }
+      }
+    ]
+  }
+}

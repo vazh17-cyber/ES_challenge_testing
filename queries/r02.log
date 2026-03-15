@@ -1,0 +1,52 @@
+{
+  "took": 322,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 3,
+      "relation": "eq"
+    },
+    "max_score": 0.7330544,
+    "hits": [
+      {
+        "_index": "documents",
+        "_id": "zpEi6ZwBAX6w1uwO1ygv",
+        "_score": 0.7330544,
+        "_source": {
+          "doc_id": "OL10263W",
+          "chunk_id": "OL10263W-0",
+          "title": "Le petit prince",
+          "description": "*Le Petit Prince* est une uvre de langue francaise, la plus connue d'Antoine de Saint-Exupery. Publie en 1943 a New York simultanement a sa traduction anglaise, c'est une uvre poetique et philosophique sous l'apparence d'un conte pour enfants. Traduit en quatre cent cinquante-sept langues et dialectes, *Le Petit Prince* est le deuxieme ouvrage le plus traduit au monde apres la Bible. Le langage, simple et depouille, parce qu'il est destine a etre compris par des enfants, est en realite pour le narrateur le vehicule privilegie d'une conception symbolique de la vie. Chaque chapitre relate une rencontre du petit prince qui laisse celui-ci perplexe, par rapport aux comportements absurdes des grandes personnes ."
+        }
+      },
+      {
+        "_index": "documents",
+        "_id": "F4IK85wBuAgl2xirB1Ca",
+        "_score": 0.73273444,
+        "_source": {
+          "doc_id": "OL10263W",
+          "chunk_id": "OL10263W-0",
+          "title": "Le petit prince",
+          "description": "*Le Petit Prince* est une uvre de langue francaise, la plus connue d'Antoine de Saint-Exupery. Publie en 1943 a New York simultanement a sa traduction anglaise, c'est une uvre poetique et philosophique sous l'apparence d'un conte pour enfants. Traduit en quatre cent cinquante-sept langues et dialectes, *Le Petit Prince* est le deuxieme ouvrage le plus traduit au monde apres la Bible. Le langage, simple et depouille, parce qu'il est destine a etre compris par des enfants, est en realite pour le narrateur le vehicule privilegie d'une conception symbolique de la vie. Chaque chapitre relate une rencontre du petit prince qui laisse celui-ci perplexe, par rapport aux comportements absurdes des grandes personnes ."
+        }
+      },
+      {
+        "_index": "documents",
+        "_id": "m1sn7pwBAclMba5uTZ1u",
+        "_score": 0.7324114,
+        "_source": {
+          "doc_id": "OL10263W",
+          "chunk_id": "OL10263W-0",
+          "title": "Le petit prince",
+          "description": "*Le Petit Prince* est une uvre de langue francaise, la plus connue d'Antoine de Saint-Exupery. Publie en 1943 a New York simultanement a sa traduction anglaise, c'est une uvre poetique et philosophique sous l'apparence d'un conte pour enfants. Traduit en quatre cent cinquante-sept langues et dialectes, *Le Petit Prince* est le deuxieme ouvrage le plus traduit au monde apres la Bible. Le langage, simple et depouille, parce qu'il est destine a etre compris par des enfants, est en realite pour le narrateur le vehicule privilegie d'une conception symbolique de la vie. Chaque chapitre relate une rencontre du petit prince qui laisse celui-ci perplexe, par rapport aux comportements absurdes des grandes personnes ."
+        }
+      }
+    ]
+  }
+}
